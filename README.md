@@ -1,5 +1,5 @@
 # Nvidia_Driver
-patched driver for RTX 2080 ti
+patched driver for RTX 2080 ti made as a .exe installer
 
 
 
